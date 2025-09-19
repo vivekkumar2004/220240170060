@@ -1,0 +1,16 @@
+{
+  "name": "url-shortener-service",
+  "version": "1.0.0",
+  "description": "A simple URL shortener microservice for campus hiring evaluation.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "express": "^4.18.2",
+    "nanoid": "^3.3.4"
+  }
+}
